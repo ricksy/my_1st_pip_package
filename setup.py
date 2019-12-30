@@ -35,6 +35,9 @@ setuptools.setup(
          "Operating System :: OS Independent",
 
      ],
-
+     project_urls={  
+         'Bug Reports': 'https://github.com/ricksy/my_1st_pip_package/issues',
+         'Source': 'https://github.com/ricksy/my_1st_pip_package/',
+     },
  )
 
