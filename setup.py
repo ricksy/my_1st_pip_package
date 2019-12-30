@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
 
-     name='rev',  
+     name='rrev',  
 
      version='0.1',
 
