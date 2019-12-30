@@ -10,7 +10,7 @@ setuptools.setup(
 
      version='0.1',
 
-     scripts=['rev'] ,
+     scripts=['rrev'] ,
 
      author="Ahmed",
 
