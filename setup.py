@@ -8,7 +8,7 @@ setuptools.setup(
 
      name='rrev',  
 
-     version='0.2',
+     version='0.4',
 
      scripts=['rrev'] ,
 
